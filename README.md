@@ -54,6 +54,6 @@ body {
 }
 
 ## Despliegue
-El proyecto está desplegado en [Netlify](https://www.netlify.com/). Puedes acceder a la versión en vivo del proyecto en [este enlace](https://www.example.com).
+El proyecto está desplegado en [Netlify](https://www.netlify.com/). Puedes acceder a la versión en vivo del proyecto en [este enlace](https://643ef70de47a4f1fd367b692--candid-unicorn-f55af1.netlify.app/).
 
 
