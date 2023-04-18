@@ -42,6 +42,9 @@ El proyecto utiliza la configuración de ESLint del estándar JavaScript. Puedes
 ## Estilos
 Para aplicar estilos al elemento `#root`, puedes agregar las siguientes reglas de CSS en tu archivo de estilos:
 
+## Despliegue
+El proyecto está desplegado en [Netlify](https://www.netlify.com/). Puedes acceder a la versión en vivo del proyecto en [este enlace](https://643ef70de47a4f1fd367b692--candid-unicorn-f55af1.netlify.app/).
+
 ```css
 #root {
   max-width: 1280px;
@@ -52,8 +55,3 @@ Para aplicar estilos al elemento `#root`, puedes agregar las siguientes reglas d
 body {
   background-color: #282c34;
 }
-
-## Despliegue
-El proyecto está desplegado en [Netlify](https://www.netlify.com/). Puedes acceder a la versión en vivo del proyecto en [este enlace](https://643ef70de47a4f1fd367b692--candid-unicorn-f55af1.netlify.app/).
-
-
